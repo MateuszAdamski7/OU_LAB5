@@ -3,6 +3,8 @@
 int main() {
     printf("Hello, World!\n");
 
-    printf("Koniec")
+    printf("Opcja 1");
+
+    printf("Koniec");
     return 0;
 }

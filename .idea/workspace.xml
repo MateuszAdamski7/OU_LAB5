@@ -20,7 +20,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33a9030e-6c65-4008-b063-cdcbb663b6ce" name="Default Changelist" comment="" />
+    <list default="true" id="33a9030e-6c65-4008-b063-cdcbb663b6ce" name="Default Changelist" comment="Final message added">
+      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +54,11 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="git" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="git" RUN_TARGET_NAME="git">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -68,8 +75,23 @@
       <updated>1612462063904</updated>
       <workItem from="1612462065339" duration="197000" />
       <workItem from="1612462321411" duration="1234000" />
-      <workItem from="1612465548081" duration="325000" />
+      <workItem from="1612465548081" duration="627000" />
     </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <created>1612465971007</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612465971007</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Final message added">
+      <created>1612466038597</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1612466038597</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,6 +107,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <MESSAGE value="Final message added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final message added" />
   </component>
   <component name="WindowStateProjectService">
     <state x="740" y="262" key="FileChooserDialogImpl" timestamp="1612465657769">
